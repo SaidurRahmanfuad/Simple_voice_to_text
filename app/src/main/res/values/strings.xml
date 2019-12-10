@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice_to_text</string>
+    <string name="click_on_mic">Tap on mic to speak</string>
+    <string name="speech_show">Kisu bolun&#4203;</string>
+    <string name="speech_not_supported">Apnar mobile\mic support kore na mea</string>
+
+</resources>
